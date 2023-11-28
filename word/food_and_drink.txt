@@ -1,0 +1,90 @@
+word
+Beef spare ribs
+Beef topside
+Chicken
+Chicken breasts
+Rice
+Soup
+Grilled chicken
+Roasted chicken
+Fried chicken
+Fried duck
+Grilled fish
+Fried fish
+Sunny side up
+Fried egg
+Boiled egg
+Omelet
+Scramble egg
+Salted egg
+Noodles
+Fried noodles
+Noodle soup
+Meatball
+Beef
+Lamb/ mutton
+Chicken meat
+Salted dried fish
+Sausage
+Bread
+Wheat bread
+Bread rolls
+Garlic bread
+Toast
+Cheese
+Macaroni
+Pizza
+Chicken nugget
+Sandwich
+Burger
+French fries
+Jam
+Honey
+Curry
+Stir-fry
+Porridge
+Anchovy
+Bacon
+Cereal
+Corn
+Corned beef
+Cream soup
+Meat floss
+Oatmeal
+cookie
+biscuit
+cake
+Pancake
+Brownies
+Ice cream
+Chocolate
+Chocolate bar
+Crackers
+Cupcake
+Cream
+Whipped cream
+Butter
+Margarine
+Pie
+Sponge cake
+Tart cake
+Steamed buns
+Cheesecake
+Sweets/ candy
+Lollipop
+Crackers/ chips
+Snack
+Doughnut
+Chips
+Cotton candy
+Corn chips
+Jelly
+Popcorn
+Potato chips
+Milkshake
+Milk
+Coffee
+Tea
+Iced tea
+Juice
+Water

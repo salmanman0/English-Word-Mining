@@ -1,0 +1,78 @@
+word
+Curtain
+Lamp
+Sofa
+Television
+Carpet
+Table
+Vase
+Clock
+Frame
+Throw pillow
+Wall décor
+Sound system
+Telephone
+Newspaper
+Magazine
+Bookcase
+Fireplace
+Aquarium
+Fan
+Tablecloth
+Window
+Air freshener
+Spoon
+Fork
+Knife
+Cutting board
+Can opener
+Pan
+Refrigerator
+Rice cooker
+Oven
+Dispenser
+Gallon
+Trash can
+Sink
+Teapot
+Mug
+Tap
+Napkin
+Food cover
+Bowl
+Plate
+Ladle
+Shears
+Bed
+Pillow
+Blanket
+Bolster
+Socks
+Shoes
+Hanger
+Jacket
+Mirror
+Nightlight
+Chair
+Desk
+Bed sheet
+Book
+Bag
+Cupboard
+Computer
+Laptop
+Clothes
+Doll
+Hair comb
+Frames
+Photo albums
+Tissue
+Flowers
+Chopsticks
+Alarm clock
+Glass
+Microwave 
+Air Condition
+Media stand
+Side tables
+Accent chairs
