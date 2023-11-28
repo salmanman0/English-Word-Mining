@@ -1,2 +1,6 @@
 Ini adalah code yang berguna untuk mengambil data bahasa inggris yang ada di dataset unigram_freq.csv. Karena kata kata pada dataset unigram.csv hanya berupa kata, jadi kita akan mengambil data seperti pengucapan dan lainnya dari API Meriam Webster. Untuk mendapatkan API KEY dari Meriam Webster, anda dapat follow dan dm akun instagram saya @salmanananda.ms
 File yang berguna untuk melakukan pengambilan kata kata beserta attribute lainnya berada **word.py**
+
+This is a useful code for retrieving English data in the unigram_freq.csv dataset. Because the words in the unigram.csv dataset are only words, we will take data such as pronunciation and others from the Meriam Webster API. To get the API KEY from Meriam Webster, you can follow and DM my Instagram account @salmanananda.ms
+Files that are useful for retrieving words and other attributes are **word.py**
+
