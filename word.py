@@ -6,7 +6,7 @@ from get_random import not_random
 words = pd.read_csv('unigram_freq.csv')
 database = []
 def get_dictionary_data(word):
-    api_key = "413fd211-3e6b-4927-bc26-c0751a731ea4"
+    api_key = "YOUR API KEY"
     base_url = "https://dictionaryapi.com/api/v3/references/collegiate/json/"
     url = f"{base_url}{word}?key={api_key}"
     try:
